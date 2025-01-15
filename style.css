@@ -120,6 +120,13 @@ h2{
    
   }
 
+ .logo{
+  position: absolute;
+  width: 95px;
+  left: 0;
+  top: 0;
+}
+
 
   .bggg{
     visibility:visible;
@@ -176,7 +183,12 @@ h2{
    
   }
 
-
+.logo{
+  position: absolute;
+  width: 95px;
+  left: 0;
+  top: 0;
+}
   .bggg{
     visibility:visible;
     position: absolute;
