@@ -195,7 +195,7 @@ h2{
     font-size: 35px;
     width: 90%;
     height: 800px;
-    backdrop-filter: blur(18px);
+    backdrop-filter: blur(15px);
     color: #CE1212;
     
   }
