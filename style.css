@@ -185,7 +185,7 @@ h2{
 
 .logo{
   position: absolute;
-  width: 95px;
+   width: 80px;
   left: 0;
   top: 0;
 }
@@ -208,7 +208,7 @@ h2{
     width: 90%;
     height: 800px;
     backdrop-filter: blur(15px);
-    color: #CE1212;
+    color: #e9e0c5;
     
   }
 
