@@ -146,8 +146,8 @@ h2{
     font-size: 20px;
     width: 90%;
     height: 400px;
-    backdrop-filter: blur(18px);
-    color: #CE1212;
+    backdrop-filter: blur(16px);
+    color: #ffff;
     
   }
 
